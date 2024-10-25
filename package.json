@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanbreckenridge/mapscii-at.git"
+    "url": "git+https://github.com/purarue/mapscii-at.git"
   },
   "keywords": [
     "map",
     "location"
   ],
-  "author": "Sean Breckenridge",
+  "author": "purarue",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seanbreckenridge/mapscii-at/issues"
+    "url": "https://github.com/purarue/mapscii-at/issues"
   },
-  "homepage": "https://github.com/seanbreckenridge/mapscii-at#readme",
+  "homepage": "https://github.com/purarue/mapscii-at#readme",
   "dependencies": {
     "mapscii": "^0.3.1",
     "yargs": "^17.6.0"
